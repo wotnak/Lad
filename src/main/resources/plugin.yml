@@ -1,0 +1,8 @@
+name: Lad
+version: @version@
+author: wotnak
+
+main: net.wotnak.lad.Lad
+
+commands:
+  lad:
